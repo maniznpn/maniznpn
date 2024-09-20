@@ -1,20 +1,16 @@
 <h1 align="center">Welcome! 👋</h1>
-<h3 align="center">I'm a Mobile Application Developer.</h3>
+<h3 align="center">I'm a BackEnd Developer.</h3>
 
 <!-- - 🔭 I’m currently working on *NHS.*-->
 
-- I’m currently learning *Flutter Application Development.*
-
-<!-- - I write articles on [https://samikmaharjan55.blogspot.com](https://samikmaharjan55.blogspot.com) -->
-
-<!-- - My Portfolio on [https://samikmaharjan.com.np](https://samikmaharjan.com.np) -->
-
-<!-- - 📫 How to reach me *samikmaharjan55@gmail.com* -->
+- I’m currently learning *.net technologies.*
+- 
+<!-- - 📫 How to reach me *neupanem01@gmail.com* -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/mikasamik5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikasamik5" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/samik-maharjan-2472481a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samik-maharjan-2472481a1" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/samik-maharjan-2472481a1](https://www.linkedin.com/in/manish-neupane-57a23b168)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samik-maharjan-2472481a1" height="30" width="40" /></a>
 <a href="https://fb.com/mikasamik.maharjan.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikasamik.maharjan.7" height="30" width="40" /></a>
 <a href="https://instagram.com/samik_maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samik_maharjan" height="30" width="40" /></a>
 </p>
