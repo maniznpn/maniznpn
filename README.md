@@ -20,7 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maniznpn&show_icons=true&locale=en" alt="maniznpn" /></p>
 
 <!-- Add this to show your GitHub commit streak -->
-<p align="center">
-  <img src="https://streak-stats.vercel.app/?user=maniznpn" alt="GitHub Streak" />
-</p>
+
 
