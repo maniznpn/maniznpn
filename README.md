@@ -15,7 +15,7 @@
   <!-- Your existing languages and tools section -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maniznpn&show_icons=true&locale=en&layout=compact" alt="maniznpn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maniznpn&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=58D68D&text_color=daf7dc&bg_color=151515" alt="maniznpn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maniznpn&show_icons=true&locale=en" alt="maniznpn" /></p>
 
